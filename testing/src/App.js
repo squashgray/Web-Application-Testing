@@ -27,10 +27,6 @@ function App() {
         foulCounter={foulCounter}
         ballCounter={ballCounter}
         strikeCounter={strikeCounter}
-        strike={strike}
-        ball={ball}
-        setStrike={setStrike}
-        setBall={setBall}
       />
     </div>
   );
